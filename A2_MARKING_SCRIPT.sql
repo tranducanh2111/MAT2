@@ -11,6 +11,7 @@ CLEAR SCREEN;
 
 -- changing the second parameter below from false to true 
 -- will cause the marking script to give more verbose output.
-exec A2M_Mark_Ds_Ass2( USER, FALSE );
+--exec A2M_Mark_Ds_Ass2( USER, FALSE );
+exec A2M_Mark_Ds_Ass2( USER, TRUE );
 
 
